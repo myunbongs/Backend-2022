@@ -11,10 +11,10 @@
 |:---:|:---:|:---:|
 |1주차(03.28(월) - 04.03(일))| 일단 만드는 HTML & CSS | " 김멋사의 이력서를 변형해보자 "|
 |2주차(04.04(월) - 04.10(일))| 일단 만드는 Python | 추후 공개 예정|
-|3주차(04.11(월) - 04.17(일)) | [심화] 같이 푸는 Python | 추후 공개 예정|
-|4주차(04.18(월) - 04.24(일)) | 일단 만드는 JAVASCRIPT | 추후 공개 예정|
-|5주차(04.25(월) - 05.01(일)) | 추후 공개 예정 | 추후 공개 예정|
-|6주차(05.02(월) - 05.08(일)) | 추후 공개 예정 | 추후 공개 예정 |
+|3주차(04.27(수) - 05.03(화)) | [심화] 같이 푸는 Python | 추후 공개 예정|
+|4주차(05.04(수) - 05.11(화)) | 일단 만드는 Django(1) | 추후 공개 예정|
+|5주차(05.12(수) - 05.19(화)) | 일단 만드는 Django(2) | 추후 공개 예정|
+|6주차(05.20(수) - 05.27(화)) | 일단 만드는 Django(3) | 추후 공개 예정|
  
  <br/><br/>
   
@@ -72,7 +72,7 @@ $ git push origin <브랜치명>
 
 ### 2. 레포 접속하여 Pull request 클릭
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/144dc610-c44c-4417-9d5f-4bf8d8ef0750/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/144dc610-c44c-4417-9d5f-4bf8d8ef0750/Untitled.png)
+<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/144dc610-c44c-4417-9d5f-4bf8d8ef0750/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/144dc610-c44c-4417-9d5f-4bf8d8ef0750/Untitled.png">
 
 브랜치 클릭 후 new pull request 도 가능 (아래 사진 참고!!)
 
