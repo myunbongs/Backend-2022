@@ -35,8 +35,8 @@
 ## 과제 제출 세팅하기 (최초 1회만)
 
 ```bash
-$ git checkout -b <브랜치명>
-$ git push origin <브랜치명>
+$ git checkout -b "브랜치명"
+$ git push origin "브랜치명"
 ```
 
 checkout : 사용할  브랜치 지정 
@@ -44,7 +44,7 @@ checkout : 사용할  브랜치 지정
 checkout -b : 브랜치 생성과 체크아웃을 동시에! 
 
 ```bash
-$ git push origin <브랜치명>
+$ git push origin "브랜치명"
 ```
 
 origin(원격저장소)에 <브랜치명> 브랜치를 푸쉬
@@ -62,7 +62,7 @@ origin(원격저장소)에 <브랜치명> 브랜치를 푸쉬
 ```bash
 $ git add .
 $ git commit -m "커밋 메세지를 입력해주세용"
-$ git push origin <브랜치명>
+$ git push origin "브랜치명"
 ```
 
 <aside>
