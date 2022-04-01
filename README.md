@@ -48,8 +48,8 @@ $ git push origin "브랜치명"
 ```
 
 origin(원격저장소)에 <브랜치명> 브랜치를 푸쉬
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/deab3b49-6108-4368-8445-f8cc96822e45/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/deab3b49-6108-4368-8445-f8cc96822e45/Untitled.png)
+  
+![image](https://user-images.githubusercontent.com/71435571/161270054-138e583b-5c6f-4e8b-847e-a4074d58c16d.png)
 
 클릭 후 자신의 브랜치가 잘 추가 되었는지 확인 ❤
 
@@ -72,19 +72,19 @@ $ git push origin "브랜치명"
 
 ### 2. 레포 접속하여 Pull request 클릭
 
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/144dc610-c44c-4417-9d5f-4bf8d8ef0750/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/144dc610-c44c-4417-9d5f-4bf8d8ef0750/Untitled.png">
+<img src="https://user-images.githubusercontent.com/71435571/161269030-07a92256-9836-43fd-86d7-dfe4353e2403.png"></img>
 
 브랜치 클릭 후 new pull request 도 가능 (아래 사진 참고!!)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2c2a8902-3d2f-4c87-ab74-f3f8567d5ebf/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2c2a8902-3d2f-4c87-ab74-f3f8567d5ebf/Untitled.png)
+<img src="https://user-images.githubusercontent.com/71435571/161269325-462881cb-5f9a-4eea-a20d-9300cd7531e4.png"></img>
 
 ### 3. 내용 작성 후 Create pull request 클릭!
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3aae467-2e4b-490f-ab4c-50c1feeb549e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3aae467-2e4b-490f-ab4c-50c1feeb549e/Untitled.png)
+![image](https://user-images.githubusercontent.com/71435571/161269447-8b5da43f-3ebd-4d82-b455-cc4a801ec23f.png)
 
 ### 완료 🎉
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0bada70f-341a-450c-9dc9-b09ef1d9adfc/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0bada70f-341a-450c-9dc9-b09ef1d9adfc/Untitled.png)
+![image](https://user-images.githubusercontent.com/71435571/161269496-1c824e78-eae2-4595-a83c-ab2ba2dfc24a.png)
 
 ---
  
@@ -98,7 +98,7 @@ $ git push origin "브랜치명"
 |부회장|서기|교육장|
 |:---:|:---:|:---:|
 |김현빈|김예진|이동현|
-|<img src="notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Febd20598-4686-4d29-9f5e-e0e3e19f3615%2FF6A8F00B-0968-4419-B688-FDE1FD4F15CC.png?table=block&id=c27793be-3e34-440e-9fb4-1007b90abcb5&spaceId=70dac695-dd7a-44c8-aa9e-af92b3372c9f&width=250&userId=aefbaf4d-af2e-494f-b6c0-7b5219d50aaf&cache=v2" width="120" height="120"/> | <img src="notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff2e4e9f0-79de-4fc7-b389-1bf7a5a1d202%2F%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%B5%E1%86%AB.png?table=block&id=d6b52c07-ae5b-48c6-aa57-ac0179258124&spaceId=70dac695-dd7a-44c8-aa9e-af92b3372c9f&width=250&userId=aefbaf4d-af2e-494f-b6c0-7b5219d50aaf&cache=v2" width="130" height="120"/>|<img src="notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F203a010d-be28-4f0c-976e-a8b1759ae4a0%2FKakaoTalk_20220221_015029957.png?table=block&id=49e3cdaf-517d-4a2f-a8b7-b65d330d83af&spaceId=70dac695-dd7a-44c8-aa9e-af92b3372c9f&width=250&userId=aefbaf4d-af2e-494f-b6c0-7b5219d50aaf&cache=v2" width="130" height="120"/>|
+|<img src="https://user-images.githubusercontent.com/71435571/161269702-6b57c592-3c89-46aa-8c4e-d609e946005a.png" width="120" height="120"/> | <img src="https://user-images.githubusercontent.com/71435571/161269835-87121fbe-429d-4721-bbaa-b4a8b52a7a5a.png" width="130" height="120"/>|<img src="https://user-images.githubusercontent.com/71435571/161269917-965be577-9e29-4f27-a673-785931f71fe8.png" width="130" height="120"/>|
 
- ### 🗣 질문이 있다면 ?? 백엔드 단톡방으로 !! <br/> (링크)
+ ### 🗣 질문이 있다면 ?? 백엔드 단톡방으로 !! <br/>
 </div>
